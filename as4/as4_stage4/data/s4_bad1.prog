@@ -1,0 +1,7 @@
+while(gt(fuelLeft, 0)){
+    if(not(eq(numBarrels, 0))) {
+        $var = 1;
+    } else {
+        $var2 = $var;
+    }
+}
