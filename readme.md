@@ -1,1 +1,1 @@
-These are my attempts at solving the coding assignment for the course COMP 261
+These are my attempts at solving the coding assignment for the algorithms and data structures course I completed
